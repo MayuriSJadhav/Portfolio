@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.portfolio-img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 2px rgb(210, 78, 78);
+  /* background-image: url(./Assets/Image/frontend.jpeg); */
+}
+.body{
+  background-size: cover;
+  background-position: top left;
+  background-color:#082932;
+}
+
+
+.portfolio{
+  border-radius: 10%;
+}
+.card{
+  border-radius: 10%;
+}
+.card-body{
+  border-radius: 10%;
+   /* background-color: #477886; */
+}
+.contact_number a{
+  text-decoration: none;
+}
+.email_id a{
+  text-decoration: none;
+}
+.qr-image{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.qr{
+  background-position: fixed;
+}
+.qr-image1{
+  
+}
